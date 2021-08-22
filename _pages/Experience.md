@@ -11,16 +11,14 @@ I have worked with interesting people. Here are a few places where I have worked
 <i>Lab:</i> [Advanced Agent Robotics Technology Lab](https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/)<br>
 <i>Program:</i> [Robotics Institute Summer Scholar Program 2021](https://riss.ri.cmu.edu/) <br>
 <i>Project:</i> Explanation for Multi-Agent Search and Rescue Task<br>
-* Working on modeling the beliefs possessed by agents using a Multi-Observer model thus interpreting the decisions
-taken by them in a multi-agent team setting in a search and rescue task simulated in the Minecraft environment.
+* Working on modeling the beliefs possessed by agents using a Multi-Observer model thus interpreting the decisions taken by them in a multi-agent team setting in a search and rescue task simulated in the Minecraft environment.
 
 ### Microsoft Research, New York City
 <i>Mentor:</i> [Pavithra Srinath](https://www.microsoft.com/en-us/research/people/pasrinat/) and [Olga Vrousgou](https://www.microsoft.com/en-us/research/people/olvrousg/)<br>
 <i>Team:</i> [Real World Reinforcement Learning Team](https://www.microsoft.com/en-us/research/project/real-world-reinforcement-learning/)<br>
 <i>Program:</i> [Reinforcement Learning Open Source Fest 2021](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) <br>
 <i>Project:</i> Empirical Analysis of Privacy Preserving Learning<br>
-* Analyzing the eect of aggregated learning (i.e. saving only those features after training that have crossed a
-certain threshold of users) on the model learning capabilities of the Open Source library VowpalWabbit.
+* Analyzing the effect of aggregated learning (i.e. saving only those features after training that have crossed a certain threshold of users) on the model learning capabilities of the Open Source library VowpalWabbit.
 
 ### Indian Institute of Science, Bangalore
 <i>Mentor:</i> [Prof. Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/)<br>
@@ -34,4 +32,4 @@ certain threshold of users) on the model learning capabilities of the Open Sourc
 <i>Lab:</i> [Complex Networks Research Group](https://cnerg-iitkgp.github.io/)<br>
 <i>Project:</i> Class Activation Maps for predicting Textual Entailment<br>
 * Experimented with Class Activation Maps in NLP to understand the words affcting the textual entailment prediction being made by the CNN model on the SNLI dataset consisting of 570k sentence pairs. Achieved a 60% test accuracy. 
-* Built a preprocessing pipeline for tweets on ebola for classication of their GloVe embeddings with Bidirectional LSTM.
+* Built a preprocessing pipeline for tweets on ebola for classification of their GloVe embeddings with Bidirectional LSTM.
