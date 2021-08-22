@@ -1,10 +1,7 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 Please [click here](http://manavsinghal157.github.io/files/Resume_Manav_Singhal.pdf) in case the embedded CV does not load.  
