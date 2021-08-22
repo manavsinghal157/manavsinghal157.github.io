@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://manavsinghal157.github.io/files/Resume_Manav.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://manavsinghal157.github.io/files/Resume_Manav_Singhal.pdf)
 
