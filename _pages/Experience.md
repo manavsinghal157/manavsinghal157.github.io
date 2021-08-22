@@ -24,7 +24,7 @@ certain threshold of users) on the model learning capabilities of the Open Sourc
 
 ### Indian Institute of Science, Bangalore
 <i>Mentor:</i> [Prof. Shalabh Bhatnagar](https://www.csa.iisc.ac.in/~shalabh/)<br>
-<i>Program:</i> [Indian Academy of Sciences Summer Research Fellowship 2020](https://web-japps.ias.ac.in:8443/fellowship2020/index.html)
+<i>Program:</i> [Indian Academy of Sciences Summer Research Fellowship 2020](https://web-japps.ias.ac.in:8443/fellowship2020/index.html) <br>
 <i>Project:</i> Reinforcement Learning for Scheduling Railway Lines<br>
 * Worked on evaluating widely used single-agent approaches, such as Dueling Deep Q Networks (DDQN) and Proximal Policy Optimization (PPO), using distributed scalable implementations from RLlib, to identify their shortcomings on the multi-agent Flatland Environment for ecient train scheduling.
 * Reviewed the existing literature on Markov Decision Process (MDP) for Vehicle Rescheduling Problem and the algorithms developed to solve the problem specifically catering to the scheduling of trains.
