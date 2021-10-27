@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
-========
-I am a final year undergraduate at the National Institute of Technology Karnataka, Surathkal pursuing my Bachelors in Electrical and Electronics Engineering. 
+I am a final year undergraduate at the <a href="https://www.nitk.ac.in/" style="color: black; text-decoration: bold;">National Institute of Technology Karnataka, Surathkal</a> pursuing my Bachelors in Electrical and Electronics Engineering. My research focuses primarily on Machine Learning. Specifically, I am interested to pursue theoretical and application aspects of Reinforcement Learning.
 
 
 ## News
