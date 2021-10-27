@@ -13,7 +13,7 @@ I have worked with interesting people. Here are a few places where I have worked
 
 [comment]: <> (<i>Program:</i> [Robotics Institute Summer Scholar Program 2021](https://riss.ri.cmu.edu/) <br>)
 
-* Working on modeling the beliefs possessed by agents using a Multi-Observer model thus interpreting the decisions taken by them in a multi-agent team setting in a search and rescue task simulated in the Minecraft environment. 
+* Working on modeling the beliefs possessed by agents using a Multiple-Observer model thus interpreting the decisions taken by them in a multi-agent team setting in a search and rescue task simulated in the Minecraft environment. 
 
 ### Microsoft Research, New York City <img style="float: right;" src="/images/msr.png" width="150">
 <i>Mentor:</i> <a href="https://www.microsoft.com/en-us/research/people/olvrousg/" style="color: black; text-decoration: underline;">Olga Vrousgou</a> and <a href="https://www.microsoft.com/en-us/research/people/pasrinat/" style="color: black; text-decoration: underline;">Pavithra Srinath</a><br>
