@@ -13,7 +13,8 @@ I have worked with interesting people. Here are a few places where I have worked
 
 [comment]: <> (<i>Program:</i> [Robotics Institute Summer Scholar Program 2021](https://riss.ri.cmu.edu/) <br>)
 
-* Working on modeling the beliefs possessed by agents using a Multiple-Observer model thus interpreting the decisions taken by them in a multi-agent team setting in a search and rescue task simulated in the Minecraft environment. 
+* Working on modeling the beliefs possessed by agents using a Multiple-Observer model thus interpreting the decisions via queries taken by them in a multi-agent team setting in a search and rescue task simulated in the Minecraft environment. 
+* Currently working on developing natural language descriptions of the observations from the metadata and developing other possible queries and memory representations.
 
 ### Microsoft Research, New York City <img style="float: right;" src="/images/msr.png" width="150">
 <i>Mentor:</i> <a href="https://www.microsoft.com/en-us/research/people/olvrousg/" style="color: black; text-decoration: underline;">Olga Vrousgou</a> and <a href="https://www.linkedin.com/in/pavithrasrinath/" style="color: black; text-decoration: underline;">Pavithra Srinath</a><br>
@@ -24,7 +25,8 @@ I have worked with interesting people. Here are a few places where I have worked
 
 * Analyzed the effect of Aggregated Learning (i.e. saving only those features after training that have crossed a
 certain threshold of users) on the model learning capabilities of the Open Source library VowpalWabbit.
-* Achieved competitive performance between the public model (does not have access to the user feature mapping) and private model (has access to the user feature mapping) on the OpenML Click Prediction Dataset. 
+* Achieved competitive performance between the public model (does not have access to the user feature mapping) and private model (has access to the user feature mapping) in our empirical analysis of the privacy-preserving feature on the OpenML Click Prediction Dataset. 
+* Implemented two different approaches for the feature and compared the existing benchmarks performances of each, along with developing new unit tests and benchmarks for it.
 
 ### Indian Institute of Science, Bangalore <img style="float: right;" src="/images/iisc.png" width="90">
 <i>Mentor:</i> <a href="https://www.csa.iisc.ac.in/~shalabh/" style="color: black; text-decoration: underline;">Prof. Shalabh Bhatnagar</a><br>
