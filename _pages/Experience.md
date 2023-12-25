@@ -5,9 +5,25 @@ permalink: Experience/
 author_profile: true
 ---
 I have worked with interesting people. Here are a few places where I have worked.
+### Microsoft Research, India <img style="float: right;" src="/images/msr.png" width="150">
+<i>Mentors:</i> <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" style="color: black; text-decoration: underline;">Nagarajan Natarajan</a> and <a href="https://www.microsoft.com/en-us/research/people/kanadeaditya/" style="color: black; text-decoration: underline;">Aditya Kanade</a><br>
+<i>Project:</i> Code LMs, You Understand and <i>then</i> Code, Don't You?<br>
+
+* Developing benchmarks and evaluation methodologies for code generation with LLMs, focusing on evaluation of
+non-functional requirements of the generated code
+* Devised a new metric DiffBLEU, which avoids the repetition bias in the BLEU score providing a more accurate
+measure for the code generation performance.
+
+<i>Mentors:</i> <a href="https://www.microsoft.com/en-us/research/people/nichandr/" style="color: black; text-decoration: underline;">Nishanth Chandran</a>, <a href="https://www.linkedin.com/in/dimdimitriadis" style="color: black; text-decoration: underline;">Dimitrios Dimitriadis</a>, and <a href="https://www.microsoft.com/en-us/research/people/digup/" style="color: black; text-decoration: underline;">Divya Gupta</a><br>
+<i>Project:</i> Fed-Encoder: A One-Shot Federated Learning Solution <br>
+
+* Led efforts to enhance the accuracy of global model trained in a challenging one-shot federated learning setup with
+clients trained on non-IID data.
+* Achieved over 5% increase in accuracy compared to baselines in our most non-IID setting by combining client logits
+and encoder output from a pre-trained autoencoder.
 
 ### Robotics Institute, Carnegie Mellon University <img style="float: right;" src="/images/cmu ri.gif" width="175">
-<i>Mentor:</i> <a href="https://www.ri.cmu.edu/ri-faculty/katia-sycara/" style="color: black; text-decoration: underline;">Prof. Katia Sycara</a> and <a href="https://www.ri.cmu.edu/ri-people/dana-hughes/" style="color: black; text-decoration: underline;">Dr. Dana Hughes</a> <br>
+<i>Mentors:</i> <a href="https://www.ri.cmu.edu/ri-faculty/katia-sycara/" style="color: black; text-decoration: underline;">Prof. Katia Sycara</a> and <a href="https://www.ri.cmu.edu/ri-people/dana-hughes/" style="color: black; text-decoration: underline;">Dr. Dana Hughes</a> <br>
 <i>Lab:</i> <a href="https://www.ri.cmu.edu/robotics-groups/advanced-agent-robotics-technology-lab/" style="color: black; text-decoration: underline;">Advanced Agent Robotics Technology Lab</a><br>
 <i>Project:</i> Explanation for Multi-Agent Search and Rescue Task<br> 
 
@@ -17,7 +33,7 @@ I have worked with interesting people. Here are a few places where I have worked
 * Currently working on developing natural language descriptions of the observations from the metadata and developing other possible queries and memory representations.
 
 ### Microsoft Research, New York City <img style="float: right;" src="/images/msr.png" width="150">
-<i>Mentor:</i> <a href="https://www.microsoft.com/en-us/research/people/olvrousg/" style="color: black; text-decoration: underline;">Olga Vrousgou</a> and <a href="https://www.linkedin.com/in/pavithrasrinath/" style="color: black; text-decoration: underline;">Pavithra Srinath</a><br>
+<i>Mentors:</i> <a href="https://www.microsoft.com/en-us/research/people/olvrousg/" style="color: black; text-decoration: underline;">Olga Vrousgou</a> and <a href="https://www.linkedin.com/in/pavithrasrinath/" style="color: black; text-decoration: underline;">Pavithra Srinath</a><br>
 <i>Team:</i> <a href="https://www.microsoft.com/en-us/research/project/real-world-reinforcement-learning/" style="color: black; text-decoration: underline;">Real World Reinforcement Learning Team</a><br>
 <i>Project:</i> Empirical Analysis of Privacy Preserving Learning<br>
 
