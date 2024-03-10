@@ -7,12 +7,13 @@ author_profile: true
 I have worked with interesting people. Here are a few places where I have worked.
 ### Microsoft Research, India <img style="float: right;" src="/images/msr.png" width="150">
 <i>Mentors:</i> <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" style="color: black; text-decoration: underline;">Nagarajan Natarajan</a> and <a href="https://www.microsoft.com/en-us/research/people/kanadeaditya/" style="color: black; text-decoration: underline;">Aditya Kanade</a><br>
-<i>Project:</i> Code LMs, You Understand and <i>then</i> Code, Don't You?<br>
+<i>Project:</i> NoFunEval: Funny How Code LMs Falter on Requirements Beyond Functional Correctness<br>
 
-* Developing benchmarks and evaluation methodologies for code generation with LLMs, focusing on evaluation of
-non-functional requirements of the generated code
-* Devised a new metric DiffBLEU, which avoids the repetition bias in the BLEU score providing a more accurate
-measure for the code generation performance.
+* Developed benchmarks and evaluation methodologies for code generation with Large Language Models (LLMs),
+focusing on evaluation of non-functional requirements of the generated code.
+* Extensively evaluated twenty-two code LMs to discover they falter on our benchmark and don’t sufficiently
+comprehend code they can otherwise edit.
+* Building a capable coding LM to better comprehend and edit code.
 
 <i>Mentors:</i> <a href="https://www.microsoft.com/en-us/research/people/nichandr/" style="color: black; text-decoration: underline;">Nishanth Chandran</a>, <a href="https://www.linkedin.com/in/dimdimitriadis" style="color: black; text-decoration: underline;">Dimitrios Dimitriadis</a>, and <a href="https://www.microsoft.com/en-us/research/people/digup/" style="color: black; text-decoration: underline;">Divya Gupta</a><br>
 <i>Project:</i> Fed-Encoder: A One-Shot Federated Learning Solution <br>

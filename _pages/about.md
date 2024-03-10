@@ -9,10 +9,13 @@ redirect_from:
 ---
 I am a Research Fellow at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/" style="color: black; text-decoration: bold;"> Microsoft Research India</a> working with <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" style="color: black; text-decoration: bold;"> Nagarajan Natarajan</a> and <a href="https://www.microsoft.com/en-us/research/people/kanadeaditya/" style="color: black; text-decoration: bold;">Aditya Kanade</a> on understanding the limitations of LLMs and improving their capabilities to automate the software engineering pipeline. Previously, I have also collaborated with <a href="https://www.microsoft.com/en-us/research/people/nichandr/" style="color: black; text-decoration: bold;"> Nishanth Chandran</a>, <a href="https://www.linkedin.com/in/dimdimitriadis" style="color: black; text-decoration: bold;"> Dimitrios Dimitriadis</a>, and <a href="https://www.microsoft.com/en-us/research/people/digup/" style="color: black; text-decoration: bold;">Divya Gupta</a> on problems related to privacy-preserving machine learning (ppml). I did my undergrad from the <a href="https://www.nitk.ac.in/" style="color: black; text-decoration: bold;">National Institute of Technology Karnataka (NITK), Surathkal</a>. My interests lie in Machine Learning, specifically in trustworthy ML focusing on generalizability, ppml, and interpretability. 
 
+I am on the job market for industry and academic positions! Feel free to reach out if you think I might be a fit.
+
 ## News
 <div style="height:275px;width:775px;border:none;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
 <font size="2"> 
 <ul>
+<li><strong>Jan, 2024</strong>: <a href="https://arxiv.org/abs/2401.15963" style="color: black; text-decoration: underline;">Pre-Print</a> on NoFunEval: Funny How Code LMs Falter on Requirements Beyond Functional Correctness is now out on Arxiv. Check out our <a href="https://twitter.com/ManavSinghal157/status/1753019213759836240" style="color: black; text-decoration: underline;">tweet</a>!</li>
 <li><strong>May, 2023</strong>: <a href="https://drive.google.com/file/u/1/d/1ioFzJXKpJw2s-tLULQm7TUPqT3yheL8I/view?usp=sharing" style="color: black; text-decoration: underline;">Pre-Print</a> on Fed-Encoder : A One-Shot Federated Learning Solution is now out.</li>
 <li><strong>July, 2022</strong>: Big Move! Joined Microsoft Research India as a Research Fellow.</li>
 <li><strong>February, 2022</strong>: <a href="https://www.youtube.com/watch?v=Ggnuwfiwn3E&t=1s" style="color: black; text-decoration: underline;">Watch</a> the final recording of my presentation to Microsoft Research NYC on "Empirical Analysis of Privacy Preserving Learning."</li>
