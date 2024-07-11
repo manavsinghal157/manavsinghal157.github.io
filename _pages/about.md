@@ -15,6 +15,7 @@ I am on the job market for industry and academic positions! Feel free to reach o
 <div style="height:275px;width:775px;border:none;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
 <font size="2"> 
 <ul>
+<li><strong>July, 2024</strong>: Our work <a href="https://arxiv.org/abs/2401.15963" style="color: black; text-decoration: underline;">NoFunEval</a> has been accepted at <a href="https://colmweb.org/" style="color: black; text-decoration: underline;">COLM 2024</a>!</li>
 <li><strong>Jan, 2024</strong>: <a href="https://arxiv.org/abs/2401.15963" style="color: black; text-decoration: underline;">Pre-Print</a> on NoFunEval: Funny How Code LMs Falter on Requirements Beyond Functional Correctness is now out on Arxiv. Check out our <a href="https://twitter.com/ManavSinghal157/status/1753019213759836240" style="color: black; text-decoration: underline;">tweet</a>!</li>
 <li><strong>May, 2023</strong>: <a href="https://drive.google.com/file/u/1/d/1ioFzJXKpJw2s-tLULQm7TUPqT3yheL8I/view?usp=sharing" style="color: black; text-decoration: underline;">Pre-Print</a> on Fed-Encoder : A One-Shot Federated Learning Solution is now out.</li>
 <li><strong>July, 2022</strong>: Big Move! Joined Microsoft Research India as a Research Fellow.</li>
