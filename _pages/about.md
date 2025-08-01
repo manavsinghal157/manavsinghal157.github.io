@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an ML Engineer at <a href="https://www.getmaxim.ai/" style="color: black; text-decoration: bold;">Maxim AI</a>. Previously, I was a Research Fellow at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/" style="color: black; text-decoration: bold;"> Microsoft Research India</a> where I worked with <a href="https://www.microsoft.com/en-us/research/people/nagarajn/" style="color: black; text-decoration: bold;"> Nagarajan Natarajan</a> and <a href="https://www.microsoft.com/en-us/research/people/kanadeaditya/" style="color: black; text-decoration: bold;">Aditya Kanade</a> on understanding the limitations of LLMs and improving their capabilities to automate the software engineering pipeline. In the past, I have also collaborated with <a href="https://www.microsoft.com/en-us/research/people/nichandr/" style="color: black; text-decoration: bold;"> Nishanth Chandran</a>, <a href="https://www.linkedin.com/in/dimdimitriadis" style="color: black; text-decoration: bold;"> Dimitrios Dimitriadis</a>, and <a href="https://www.microsoft.com/en-us/research/people/digup/" style="color: black; text-decoration: bold;">Divya Gupta</a> on problems related to privacy-preserving machine learning. I did my undergrad from the <a href="https://www.nitk.ac.in/" style="color: black; text-decoration: bold;">National Institute of Technology Karnataka (NITK), Surathkal</a>. My interests lie in Machine Learning, specifically in AI4Code and Safety. 
+Scaling RL at Sarvam! Previously, evaluted LLMs to automate coding at Microsoft Research.
+
+I am a passionate runner and an occasional blogger.
 
 ## News
 <div style="height:275px;width:775px;border:none;font:16px/26px Georgia, Garamond, Serif;overflow:auto;">
